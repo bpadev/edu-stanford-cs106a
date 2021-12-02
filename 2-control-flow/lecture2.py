@@ -28,4 +28,8 @@ if x != 4:
 
 
 # Important Ideas - Thinking Drawing and Coding
-# - 
+# - Don't do it in your head.
+# - Make a Drawing / Sketch
+# - What is a next-step goal?
+# - What code could advance things to the next goal?
+# - you need to spell it out simple for the computer, it does not know what you mean if you don't.
