@@ -2,4 +2,5 @@
 
 
 # Data Parsing
+# - Have "raw" text and find and pull data you want.
 # - 
