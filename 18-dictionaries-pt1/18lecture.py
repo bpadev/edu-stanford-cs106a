@@ -11,3 +11,4 @@ d = {'a': 'arsenault', 'b': 'bennito', 'c': 'caliente'}
 'a' in d
 # "in" guard pattern, only access key/values if the key exists.
 
+
